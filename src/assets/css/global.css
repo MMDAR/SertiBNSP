@@ -1,0 +1,14 @@
+/* CSS universal */
+
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
